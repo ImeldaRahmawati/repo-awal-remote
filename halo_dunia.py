@@ -5,9 +5,7 @@
 
 
 print ('Halo Dunia !')
-
-
-# In[ ]:
+print ('Belajar AI !')
 
 
 
